@@ -5,7 +5,7 @@ This project uses an **Artificial Neural Network (ANN)** built with **Keras/Tens
 The trained model and pre-processing pipeline (`PowerTransformer`, `StandardScaler`, `LabelEncoder`) are saved and served through an interactive web application built with **Gradio**.
 
 ---
-# APP:
+# APP:https://huggingface.co/spaces/venmugilrajan/Breast_cancer_ann
 ## 🚀 Technology Stack
 
 - **Model Training:** TensorFlow (Keras), Scikit-learn, Pandas, NumPy, Jupyter  
